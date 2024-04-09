@@ -1,3 +1,12 @@
+/** Student Name: Alan Macklin
+ * Program Name: Simulated Memory Allocator
+ * Creation Date: Fall 2023
+ * Last Modified Date: Spring 2024
+ * CSCI Course: 431
+ * Grade Received: 100
+ * Design Comments: Doubly linked list worked supprisingly well out side of a couple pointer issues
+ */
+
 #include <stdio.h>
 #include <stdlib.h>
 #include <string.h>

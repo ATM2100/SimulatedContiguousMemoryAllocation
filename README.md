@@ -6,7 +6,7 @@ Simulated Contiguous Memory Allocation
 -   **Class:** Operating Systems
 -   **Grade:** 100/100 Pending confirmation
 -   **Language(s):** C
--   **Source Code Repository:** [features/mastering-markdown](https://guides.github.com/features/mastering-markdown/)  
+-   **Source Code Repository:** [ATM2100/Hangman](https://github.com/ATM2100/Hangman?tab=readme-ov-file)  
     (Please [email me](mailto:atmacklin@csustudent.net?subject=GitHub%20Access) to request access.)
 
 ## Project description
@@ -17,7 +17,7 @@ This simulated memory allocation program implements a doubly linked list so that
 
 All that is needed to compile and run the project is to be in the correct directory and run make. The number in the third commannd that actually runs the project can be any number, but I recomend it be at least 100 times bigger than the ammount you request at a time.
 
-```bash
+```
 cd ./SimulatedContiguousMemoryAllocation
 make
 ./SimulatedMemoryAllocation 100000
