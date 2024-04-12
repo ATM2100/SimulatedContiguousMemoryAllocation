@@ -6,7 +6,7 @@ Simulated Contiguous Memory Allocation
 -   **Class:** Operating Systems
 -   **Grade:** 100/100 Pending confirmation
 -   **Language(s):** C
--   **Source Code Repository:** [ATM2100/Hangman](https://github.com/ATM2100/Hangman?tab=readme-ov-file)  
+-   **Source Code Repository:** [ATM2100/SimulatedContiguousMemoryAllocation](https://github.com/ATM2100/SimulatedContiguousMemoryAllocation)  
     (Please [email me](mailto:atmacklin@csustudent.net?subject=GitHub%20Access) to request access.)
 
 ## Project description
