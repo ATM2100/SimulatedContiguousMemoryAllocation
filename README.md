@@ -1,4 +1,4 @@
-[Back to Portfolio](./)
+
 
 Simulated Contiguous Memory Allocation
 ===============
@@ -51,5 +51,3 @@ Exit Program:
 X
 ```
 
-
-[Back to Portfolio](./)
