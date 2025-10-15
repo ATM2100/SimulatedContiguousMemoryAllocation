@@ -51,22 +51,5 @@ Exit Program:
 X
 ```
 
-![screenshot](images/project1/Fig1.png)  
-Fig 1. When run initially
-
-![screenshot](/images/project1/Fig2.png)  
-Fig 2. Example of requesting memory.
-
-![screenshot](/images/project1/Fig3.png)  
-Fig 3. Shows the current status of the memory.
-
-![screenshot](/images/project1/Fig4.png)    
-Fig 4. Releasing memory example.
-
-![screenshot](/images/project1/Fig5.png)    
-Fig 5. Worst and Best Fit examples.
-
-![screenshot](/images/project1/Fig6.png)    
-Fig 4. Compaction example.
 
 [Back to Portfolio](./)
